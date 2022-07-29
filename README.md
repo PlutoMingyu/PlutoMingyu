@@ -1,3 +1,5 @@
+### Hi There!
+
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=PlutoMingyu&&style=flat-square" align="right" />
 </div>  
@@ -13,8 +15,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F alt=instagram style="margin-bottom: 10px;" />
 </a>
   
-
-
 
 ### Hello, I'm Min-Gyu Lee!
 
