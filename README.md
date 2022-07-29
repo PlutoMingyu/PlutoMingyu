@@ -2,6 +2,17 @@
 <img src="https://komarev.com/ghpvc/?username=PlutoMingyu&&style=flat-square" align="right" />
 </div>  
 
+</a>
+  
+<p align="left">
+    <a href="https://github.com/PlutoMingyu/PlutoMingyu"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/PlutoMingyu/PlutoMingyu/graphs/contributors"><img src="https://img.shields.io/github/contributors/PlutoMingyu/PlutoMingyu?color=blue"></a>
+    <a href="https://github.com/PlutoMingyu"><img src="https://img.shields.io/github/stars/PlutoMingyu.svg?color=blue&logo=github"></a>
+     <a href="https://github.com/vaibhavvikas/vaibhavvikas/network/members"><img src="https://img.shields.io/github/forks/vaibhavvikas/vaibhavvikas.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=PlutoMingyu.PlutoMingyu" alt="visitors"/>
+</p>
+
 ##
 <a href="https://github.com/plutomingyu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 10px;" />
@@ -36,30 +47,15 @@
 
 #### Research Field
 - Aerospace Engineeirng
-
-#### AI & Big Data Engineering (Machine Learning)
 - Computer Vision
 - Deep Learning
 - Image Classification
 - Generative Model
-
-#### Machine Learning with Astronomy
 - SGCP(Star-Galaxy Classification Problem)
 - Project ADML : Astronomy Datasets for Machine Learning
 
 </a>
   
-<p align="left">
-    <a href="https://github.com/PlutoMingyu/PlutoMingyu"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/PlutoMingyu/PlutoMingyu/graphs/contributors"><img src="https://img.shields.io/github/contributors/PlutoMingyu/PlutoMingyu?color=blue"></a>
-    <a href="https://github.com/PlutoMingyu"><img src="https://img.shields.io/github/stars/PlutoMingyu.svg?color=blue&logo=github"></a>
-     <a href="https://github.com/vaibhavvikas/vaibhavvikas/network/members"><img src="https://img.shields.io/github/forks/vaibhavvikas/vaibhavvikas.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=PlutoMingyu.PlutoMingyu" alt="visitors"/>
-</p>
-
-
-
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;\
