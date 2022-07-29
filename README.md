@@ -6,23 +6,24 @@
 
 ### About me
 ## Study
-Sunchon National University, Republic of Korea
+### Sunchon National University, Republic of Korea
 - Bachelor of Engineering from Department of Aerospace Engineering. (Mar. 2015 ~ Feb. 2021)
-- Master student in Department of Multimedia Engineering and Interdisciplinary Program in IT-Bio Convergence System. (Mar. 2022 ~ )
+- Master student in Department of Multimedia Engineering and Interdisciplinary Program in IT-Bio Convergence System.
+  (Mar. 2022 ~ )
 
 ## Research Field
-# Aerospace Engineeirng
+### Aerospace Engineeirng
 
-# Engineering of AI (Machine Learning)
-    - Computer Vision
-    - Deep Learning
-    - Image Classification
-    - Generative Model
+#### Engineering of AI (Machine Learning)
+- Computer Vision
+- Deep Learning
+- Image Classification
+- Generative Model
 
-# Machine Learning with Astronomy
-    - SGCP(Star-Galaxy Classification Problem)
-    - Project ADML : Astronomy Datasets for Machine Learning
-        > Producing high-performance astronomical image datasets.
+#### Machine Learning with Astronomy
+- SGCP(Star-Galaxy Classification Problem)
+- Project ADML : Astronomy Datasets for Machine Learning
+    > Producing high-performance astronomical image datasets.
 
 
 ##
