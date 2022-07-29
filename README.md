@@ -24,21 +24,16 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F alt=instagram style="margin-bottom: 10px;" />
 </a>
 
-## Hi There! I'm Min-gyu 👋
+## Hi There! I'm Min-gyu 👋 😄
 
 </a>
 
 ### About me
-#### Aerospace Eingeer
+#### 🚀 Aerospace, 👨‍💻 AI & Big Data(Machine Learning) Engineer
 
-</a>
-
-#### AI & Big Data(Machine Learning) Engineer
-
-#### Study : Sunchon National University, Republic of Korea
+#### ✏ Study : Sunchon National University, Republic of Korea 🇰🇷
 - Bachelor of Engineering from Department of Aerospace Engineering. (Mar. 2015 ~ Feb. 2021)
-
-#### In Progress (Mar. 2022 ~ )
+##### In Progress (Mar. 2022 ~ )
 - Master student in Department of Multimedia Engineering 
 - Interdisciplinary Program in IT-Bio Convergence System
 - AI & Big Data Labotory, Sunchon National University
