@@ -4,7 +4,15 @@
 <img src="https://komarev.com/ghpvc/?username=PlutoMingyu&&style=flat-square" align="right" />
 </div>  
 
+### About me
+## Study
+# 
 
+was Received in Bachelor of Engineering from Department of Aerospace Engineering from Sunchon National University, in Feb. 2022. Currently, he is a master student in Department of Multimedia Engineering and Interdisciplinary Program in IT-Bio Convergence System, Sunchon National University, Republic of Korea (Mar. 2022-).
+His research interests are Computer Vision, Deep Learning, Image Classification, Generative Model, and Astronomy. In detail, CNN(Convolutional Neural Network) to solve the SGCP(Star-Galaxy Classification Problem), and producing high-performance astronomical image datasets.
+
+
+##
 <a href="https://github.com/plutomingyu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 10px;" />
   
