@@ -1,4 +1,27 @@
-### Hi there 👋, my name is Mingyu
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=PlutoMingyu&&style=flat-square" align="right" />
+</div>  
+  
+
+<br/>  
+
+## Hi There 👋  
+  
+
+<a href="https://github.com/plutomingyu" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 10px;" />
+
+<a href="https://plutomingyu.github.io" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 10px;" />
+
+<a href="https://instagram.com/pluto_mingyu" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 10px;" />
+</a>
+  
+
+
+
+### Hello, I'm Min-Gyu Lee!
 
 <p align="center">
     <a href="https://github.com/PlutoMingyu/PlutoMingyu"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
