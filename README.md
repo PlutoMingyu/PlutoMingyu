@@ -1,24 +1,22 @@
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=PlutoMingyu&&style=flat-square" align="right" />
+<img src="https://komarev.com/ghpvc/?username=PlutoMingyu&&style=round-square" align="right" />
 </div>  
 <p align="left">
     <a href="https://github.com/PlutoMingyu/PlutoMingyu"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/PlutoMingyu/PlutoMingyu/graphs/contributors"><img src="https://img.shields.io/github/contributors/PlutoMingyu/PlutoMingyu?color=blue">
+    <a href="https://github.com/PlutoMingyu/PlutoMingyu/graphs/contributors"><img src="https://img.shields.io/github/contributors/PlutoMingyu/PlutoMingyu?color=blue"></a>
     <a href="https://github.com/PlutoMingyu"><img src="https://img.shields.io/github/stars/PlutoMingyu.svg?color=blue&logo=github"></a>
     <a href="https://github.com/vaibhavvikas/vaibhavvikas/network/members"><img src="https://img.shields.io/github/forks/vaibhavvikas/vaibhavvikas.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=PlutoMingyu.PlutoMingyu" alt="visitors"/>
 </p>
-    
 <a href="https://github.com/plutomingyu" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="flat: 10px;" />
   
 <a href="https://plutomingyu.github.io" target="_blank">
-<img src=https://img.shields.io/badge/git_pgae-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white4&color=007ACC alt=git_page style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/badge/git_pages-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white4&color=007ACC alt=git_pages style="flat: 10px;" />
 
 <a href="https://instagram.com/pluto_mingyu" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F alt=instagram style="margin-bottom: 10px;" />
-</a>
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F style="flat: 10px;" />
 
 ## Hi There! I'm Min-gyu 👋 😄
 
