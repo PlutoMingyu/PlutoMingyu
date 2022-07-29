@@ -4,13 +4,12 @@
 <p align="left">
     <a href="https://github.com/PlutoMingyu/PlutoMingyu"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/PlutoMingyu/PlutoMingyu/graphs/contributors"><img src="https://img.shields.io/github/contributors/PlutoMingyu/PlutoMingyu?color=blue"></a>
+    <a href="https://github.com/PlutoMingyu/PlutoMingyu/graphs/contributors"><img src="https://img.shields.io/github/contributors/PlutoMingyu/PlutoMingyu?color=blue">
     <a href="https://github.com/PlutoMingyu"><img src="https://img.shields.io/github/stars/PlutoMingyu.svg?color=blue&logo=github"></a>
-     <a href="https://github.com/vaibhavvikas/vaibhavvikas/network/members"><img src="https://img.shields.io/github/forks/vaibhavvikas/vaibhavvikas.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/vaibhavvikas/vaibhavvikas/network/members"><img src="https://img.shields.io/github/forks/vaibhavvikas/vaibhavvikas.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=PlutoMingyu.PlutoMingyu" alt="visitors"/>
 </p>
-
-##
+    
 <a href="https://github.com/plutomingyu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 10px;" />
   
@@ -29,11 +28,11 @@
 #### 🚀 Aerospace, 👨‍💻 AI & Big Data(Machine Learning) Engineer
 
 #### ✏ Study : Sunchon National University, Republic of Korea 🇰🇷
-- 　Bachelor of Engineering from Department of Aerospace Engineering. (Mar. 2015 ~ Feb. 2021)
+- Bachelor of Engineering from Department of Aerospace Engineering. (Mar. 2015 ~ Feb. 2021)
 ##### 　In Progress (Mar. 2022 ~ )
-- 　Master student in Department of Multimedia Engineering 
-- 　Interdisciplinary Program in IT-Bio Convergence System
-- 　AI & Big Data Labotory, Sunchon National University
+- Master student in Department of Multimedia Engineering 
+- Interdisciplinary Program in IT-Bio Convergence System
+- AI & Big Data Labotory, Sunchon National University
 
 </a>
 
