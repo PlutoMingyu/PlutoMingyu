@@ -5,10 +5,10 @@
 
 <a href="https://github.com/plutomingyu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 10px;" />
- 
+  
 <a href="https://plutomingyu.github.io" target="_blank">
 <img src=https://img.shields.io/badge/git_pgae-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=git_page style="margin-bottom: 10px;" />
- 
+  
 <a href="https://instagram.com/pluto_mingyu" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 10px;" />
 </a>
