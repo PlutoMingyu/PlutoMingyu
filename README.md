@@ -18,14 +18,14 @@
 
 ### Hello, I'm Min-Gyu Lee!
 
-<p align="center">
+<p align="right">
     <a href="https://github.com/PlutoMingyu/PlutoMingyu"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/PlutoMingyu/PlutoMingyu/graphs/contributors"><img src="https://img.shields.io/github/contributors/PlutoMingyu/PlutoMingyu?color=blue"></a>
     <a href="https://github.com/PlutoMingyu"><img src="https://img.shields.io/github/stars/PlutoMingyu.svg?color=blue&logo=github"></a>
-    <a href="https://github.com/PlutoMingyu/PlutoMingyu/network/members"><img src="https://img.shields.io/github/forks/PlutoMingyu/PlutoMingyu.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=PlutoMingyu.PlutoMingyu" alt="visitors"/>
 </p>
+
 
 
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
