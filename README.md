@@ -1,9 +1,6 @@
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=PlutoMingyu&&style=flat-square" align="right" />
 </div>  
-
-</a>
-  
 <p align="left">
     <a href="https://github.com/PlutoMingyu/PlutoMingyu"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
