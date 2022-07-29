@@ -18,7 +18,7 @@
 
 ### Hello, I'm Min-Gyu Lee!
 
-<p align="right">
+<p align="left">
     <a href="https://github.com/PlutoMingyu/PlutoMingyu"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/PlutoMingyu/PlutoMingyu/graphs/contributors"><img src="https://img.shields.io/github/contributors/PlutoMingyu/PlutoMingyu?color=blue"></a>
