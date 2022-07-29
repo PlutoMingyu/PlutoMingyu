@@ -9,7 +9,7 @@
 ### Sunchon National University, Republic of Korea
 - Bachelor of Engineering from Department of Aerospace Engineering. (Mar. 2015 ~ Feb. 2021)
 - Master student in Department of Multimedia Engineering and Interdisciplinary Program in IT-Bio Convergence System.
-  (Mar. 2022 ~ )
+\(Mar. 2022 ~ )
 
 ## Research Field
 ### Aerospace Engineeirng
