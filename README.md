@@ -19,6 +19,9 @@
 
 ### About me
 #### Aerospace Eingeer
+
+</a>
+
 #### AI & Big Data(Machine Learning) Engineer
 
 #### Study : Sunchon National University, Republic of Korea
