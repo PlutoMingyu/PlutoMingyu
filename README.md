@@ -1,18 +1,13 @@
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=PlutoMingyu&&style=flat-square" align="right" />
 </div>  
-  
 
-<br/>  
-
-## Hi There 👋  
-  
 
 <a href="https://github.com/plutomingyu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 10px;" />
 
 <a href="https://plutomingyu.github.io" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=gitpage style="margin-bottom: 10px;" />
 
 <a href="https://instagram.com/pluto_mingyu" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 10px;" />
@@ -32,13 +27,10 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=PlutoMingyu.PlutoMingyu" alt="visitors"/>
 </p>
 
-[![](./src/header_.jpg)](#)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PlutoMingyu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pluto_mingyu/)  
 
-> <b>Intorducing</b>.
 
-## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;\
@@ -53,7 +45,6 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-555?style=flat&logo=adobe-Photoshop)&nbsp;
 ![Lightroom](https://img.shields.io/badge/-lightroom-555?style=flat&logo=adobe-lightroom)&nbsp;
 
-## 📈 GitHub Activity Graph:
 
 <table>
     <tr>
