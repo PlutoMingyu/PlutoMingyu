@@ -1,33 +1,6 @@
-### Hi There!
-
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=PlutoMingyu&&style=flat-square" align="right" />
 </div>  
-
-### About me
-## Study
-### Sunchon National University, Republic of Korea
-- Bachelor of Engineering from Department of Aerospace Engineering. (Mar. 2015 ~ Feb. 2021)
-
-#### In Progress (Mar. 2022 ~ )
-- Master student in Department of Multimedia Engineering 
-- Interdisciplinary Program in IT-Bio Convergence System
-- AI & Bigdata Labotory, Sunchon National University
-
-## Research Field
-### Aerospace Engineeirng
-
-#### Engineering of AI (Machine Learning)
-- Computer Vision
-- Deep Learning
-- Image Classification
-- Generative Model
-
-#### Machine Learning with Astronomy
-- SGCP(Star-Galaxy Classification Problem)
-- Project ADML : Astronomy Datasets for Machine Learning
-    > Producing high-performance astronomical image datasets.
-
 
 ##
 <a href="https://github.com/plutomingyu" target="_blank">
@@ -39,10 +12,40 @@
 <a href="https://instagram.com/pluto_mingyu" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F alt=instagram style="margin-bottom: 10px;" />
 </a>
+
+## Hi There! I'm Min-gyu 👋
+
+</a>
+
+### About me
+#### Aerospace Eingeer
+#### AI & Big Data(Machine Learning) Engineer
+
+#### Study : Sunchon National University, Republic of Korea
+- Bachelor of Engineering from Department of Aerospace Engineering. (Mar. 2015 ~ Feb. 2021)
+
+#### In Progress (Mar. 2022 ~ )
+- Master student in Department of Multimedia Engineering 
+- Interdisciplinary Program in IT-Bio Convergence System
+- AI & Big Data Labotory, Sunchon National University
+
+</a>
+
+#### Research Field
+- Aerospace Engineeirng
+
+#### AI & Big Data Engineering (Machine Learning)
+- Computer Vision
+- Deep Learning
+- Image Classification
+- Generative Model
+
+#### Machine Learning with Astronomy
+- SGCP(Star-Galaxy Classification Problem)
+- Project ADML : Astronomy Datasets for Machine Learning
+
+</a>
   
-
-### Hello, I'm Min-Gyu Lee!
-
 <p align="left">
     <a href="https://github.com/PlutoMingyu/PlutoMingyu"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
