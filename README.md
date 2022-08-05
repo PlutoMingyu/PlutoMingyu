@@ -41,8 +41,7 @@
 - Image Classification
 - Generative Model
 - SGCP(Star-Galaxy Classification Problem)
-- Project ADML : Astronomy Datasets for Machine Learning
-[Project ADML](https://github.com/PlutoMingyu/ADML.git)
+- [Project ADML](https://github.com/PlutoMingyu/ADML.git) : Astronomy Datasets for Machine Learning
 
 </a>
   
