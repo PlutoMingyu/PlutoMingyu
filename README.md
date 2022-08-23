@@ -30,7 +30,7 @@
 ##### 　In Progress (Mar. 2022 ~ )
 - Master student in Department of Multimedia Engineering 
 - Interdisciplinary Program in IT-Bio Convergence System
-- AI & Big Data Labotory, Sunchon National University
+- A&B Lab. (AI & Big Data Labotory), Sunchon National University
 
 </a>
 
